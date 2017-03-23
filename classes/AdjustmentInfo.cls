@@ -4,7 +4,7 @@ public class AdjustmentInfo
     public List<textBoxClass> listValueOfTextBox  
         {   
           get;   
-          set;   
+          set;   //55
         }      
     public AdjustmentInfo ()  
         {  
